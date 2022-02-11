@@ -1,0 +1,5 @@
+1. One way you can change the executable name from main to cselab can be by re-compliling using the different executable name
+
+2. When you try to compile using g++ <source> only it automatically makes a.out the executable name
+
+3. You can remove the line using namespace std; from your program and get it to compile by making sure you include the standard std:: when needed
