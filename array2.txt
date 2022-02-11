@@ -1,0 +1,7 @@
+Create reversal string. 
+Ask for string, assign the input into reversal variable. 
+
+Make temp string equal to reversal variable.
+For variables in string change placement outputs for reverse effect using temp.
+
+Display temp (reversed word)

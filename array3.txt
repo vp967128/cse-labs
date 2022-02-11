@@ -1,0 +1,12 @@
+Create variable for matrix dimensions.
+
+Declare the dimensions variable array.
+
+Create counter for negative values.
+
+Ask for the size of rows and collumns.
+If the value entered is incorrect display error and exit. 
+Else, ask for values in each row, if values are negative, change counter.
+
+If counter is not 0 then display the amount of negative values. 
+Else display that there are no negative values.

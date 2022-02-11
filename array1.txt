@@ -1,0 +1,12 @@
+Create int variable for array size.
+Ask for array size. 
+Input that value into array size variable.
+
+Declare array with array size. 
+If value entered is wrong send error and exit. 
+Else ask for array numbers and assign using for loop.
+
+Create counter for change detection.
+For numbers in array, if change is detected change counter otherwise leave it.
+
+If counter changes then it is not increasing otherwise it is.
